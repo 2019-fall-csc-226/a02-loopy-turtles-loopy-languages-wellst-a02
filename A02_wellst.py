@@ -1,3 +1,15 @@
+######################################################################
+# Author: Taran Wells
+# Username: wellst
+#
+
+# Assignment: A02: Exploring Turtles in Python
+# Purpose: practice with loops and turtles
+######################################################################
+# Acknowledgements:
+
+# Original code by: Taran Wells
+######################################################################
 import turtle
 
 
@@ -22,7 +34,7 @@ Circle.right(108)
 for i in range(20):
     # create star
     Star.begin_fill()
-    for i in range(0, 5):
+    for t in range(0, 5):
         Star.forward(200)
         Star.right(144)
     # fill star

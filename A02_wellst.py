@@ -9,6 +9,8 @@
 # Acknowledgements:
 
 # Original code by: Taran Wells
+
+# Google doc: https://docs.google.com/document/d/1uxFlK3YvEoEVq_XXDxMCyNvz4PJpU8r8TpwmFv4rRj0/edit?usp=sharing
 ######################################################################
 import turtle
 
